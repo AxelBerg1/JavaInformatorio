@@ -1,5 +1,4 @@
 package Practico1;
-
 import java.util.*;
 
 public class Ejercicio1 {
@@ -12,7 +11,6 @@ public class Ejercicio1 {
         scanner.close();
 
     }
-
 }
 
 
